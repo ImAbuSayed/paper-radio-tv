@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Paper-Radio-TV |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/paper-radio-tv/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অন্ধকার এই রাতে খোঁজে আমার দু'নয়ন
+> তোমার ওই উষ্ণ ছোঁয়ায় মেতে ওঠে এই মন
+> চোখের গভীরে আজ নেশার এক নতুন ঘোর
+> আঁধারের এই সীমানা পেরিয়ে আসবে নতুন ভোর
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
