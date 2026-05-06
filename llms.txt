@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/paper-radio-tv/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Paper-Radio-TV](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
