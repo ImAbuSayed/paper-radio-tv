@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Paper-Radio-TV
+
+This log tracks the cryptographic history and versioning for the song **Paper-Radio-TV** (paper-radio-tv).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:43:18.734736 | `v1` | `5d7b6842af82528c36ec7236f3b709e3b3a2139a2788f4364c6d4b9976d6e72f` | `4375f5983aec8c20521b385ea4740fab39b096ecd5d722533228b32af695892a` | `2026-05-08_paper-radio-tv-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
